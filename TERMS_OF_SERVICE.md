@@ -14,7 +14,7 @@ SkepBot provides:
 
     Session tracking with live scoreboards
 
-All “coins,” “tickets,” and other rewards are virtual and have no real-world monetary value.
+    All “coins,” “tickets,” and other rewards are virtual and have no real-world monetary value.
 
 3. Eligibility
 You must be at least 13 years old (or the minimum age in your jurisdiction) to use the Bot. By using it, you represent that you meet this requirement.
@@ -75,5 +75,7 @@ These Terms are governed by the laws of [Your State/Country], without regard to 
 
 13. Contact
 For questions or concerns about these Terms, please contact:
-• Discord: [YourDiscord#1234]
-• Email: your.email@example.com
+
+• Discord: skepticlese
+
+• Email: tastyoj@gmail.com
